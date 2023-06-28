@@ -1,0 +1,37 @@
+[08-Jul-2022 07:08:57 America/New_York] PHP Warning:  require(PHPMail/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/taxbvsaz/taxbee.in/contact.php on line 51
+[08-Jul-2022 07:08:57 America/New_York] PHP Warning:  require(PHPMail/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/taxbvsaz/taxbee.in/contact.php on line 51
+[08-Jul-2022 07:08:57 America/New_York] PHP Fatal error:  require(): Failed opening required 'PHPMail/PHPMailerAutoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/taxbvsaz/taxbee.in/contact.php on line 51
+[08-Jul-2022 07:09:01 America/New_York] PHP Warning:  require(PHPMail/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/taxbvsaz/taxbee.in/contact.php on line 51
+[08-Jul-2022 07:09:01 America/New_York] PHP Warning:  require(PHPMail/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/taxbvsaz/taxbee.in/contact.php on line 51
+[08-Jul-2022 07:09:01 America/New_York] PHP Fatal error:  require(): Failed opening required 'PHPMail/PHPMailerAutoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/taxbvsaz/taxbee.in/contact.php on line 51
+[08-Jul-2022 07:15:58 America/New_York] PHP Warning:  require(PHPMail/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/taxbvsaz/taxbee.in/contact.php on line 5
+[08-Jul-2022 07:15:58 America/New_York] PHP Warning:  require(PHPMail/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/taxbvsaz/taxbee.in/contact.php on line 5
+[08-Jul-2022 07:15:58 America/New_York] PHP Fatal error:  require(): Failed opening required 'PHPMail/PHPMailerAutoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/taxbvsaz/taxbee.in/contact.php on line 5
+[08-Jul-2022 07:22:27 America/New_York] PHP Warning:  require(PHPMail/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/taxbvsaz/taxbee.in/contact.php on line 5
+[08-Jul-2022 07:22:27 America/New_York] PHP Warning:  require(PHPMail/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/taxbvsaz/taxbee.in/contact.php on line 5
+[08-Jul-2022 07:22:27 America/New_York] PHP Fatal error:  require(): Failed opening required 'PHPMail/PHPMailerAutoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/taxbvsaz/taxbee.in/contact.php on line 5
+[08-Jul-2022 07:32:56 America/New_York] PHP Notice:  Undefined variable: content in /home/taxbvsaz/taxbee.in/contact.php on line 81
+[08-Jul-2022 07:33:04 America/New_York] PHP Notice:  Undefined variable: content in /home/taxbvsaz/taxbee.in/contact.php on line 81
+[08-Jul-2022 07:34:00 America/New_York] PHP Notice:  Undefined variable: content in /home/taxbvsaz/taxbee.in/contact.php on line 81
+[09-Jul-2022 03:50:49 America/New_York] PHP Notice:  Undefined variable: content in /home/taxbvsaz/taxbee.in/contact.php on line 81
+[09-Jul-2022 03:50:55 America/New_York] PHP Notice:  Undefined variable: content in /home/taxbvsaz/taxbee.in/contact.php on line 81
+[09-Jul-2022 03:53:05 America/New_York] PHP Warning:  require(PHPMail/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/taxbvsaz/taxbee.in/contact.php on line 5
+[09-Jul-2022 03:53:05 America/New_York] PHP Warning:  require(PHPMail/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/taxbvsaz/taxbee.in/contact.php on line 5
+[09-Jul-2022 03:53:05 America/New_York] PHP Fatal error:  require(): Failed opening required 'PHPMail/PHPMailerAutoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/taxbvsaz/taxbee.in/contact.php on line 5
+[09-Jul-2022 03:53:10 America/New_York] PHP Warning:  require(PHPMail/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/taxbvsaz/taxbee.in/contact.php on line 5
+[09-Jul-2022 03:53:10 America/New_York] PHP Warning:  require(PHPMail/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/taxbvsaz/taxbee.in/contact.php on line 5
+[09-Jul-2022 03:53:10 America/New_York] PHP Fatal error:  require(): Failed opening required 'PHPMail/PHPMailerAutoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/taxbvsaz/taxbee.in/contact.php on line 5
+[09-Jul-2022 03:53:26 America/New_York] PHP Warning:  require(PHPMail/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/taxbvsaz/taxbee.in/contact.php on line 5
+[09-Jul-2022 03:53:26 America/New_York] PHP Warning:  require(PHPMail/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/taxbvsaz/taxbee.in/contact.php on line 5
+[09-Jul-2022 03:53:26 America/New_York] PHP Fatal error:  require(): Failed opening required 'PHPMail/PHPMailerAutoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/taxbvsaz/taxbee.in/contact.php on line 5
+[09-Jul-2022 03:54:36 America/New_York] PHP Warning:  require(PHPMail/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/taxbvsaz/taxbee.in/contact.php on line 5
+[09-Jul-2022 03:54:36 America/New_York] PHP Warning:  require(PHPMail/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/taxbvsaz/taxbee.in/contact.php on line 5
+[09-Jul-2022 03:54:36 America/New_York] PHP Fatal error:  require(): Failed opening required 'PHPMail/PHPMailerAutoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/taxbvsaz/taxbee.in/contact.php on line 5
+[09-Jul-2022 03:56:35 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/taxbvsaz/taxbee.in/phpmail/PHPMailerAutoload.php on line 45
+[09-Jul-2022 03:58:43 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/taxbvsaz/taxbee.in/phpmail/PHPMailerAutoload.php on line 45
+[09-Jul-2022 04:00:12 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/taxbvsaz/taxbee.in/phpmail/PHPMailerAutoload.php on line 45
+[09-Jul-2022 04:03:51 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/taxbvsaz/taxbee.in/phpmail/PHPMailerAutoload.php on line 45
+[09-Jul-2022 04:09:37 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/taxbvsaz/taxbee.in/phpmail/PHPMailerAutoload.php on line 45
+[09-Jul-2022 04:19:01 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/taxbvsaz/taxbee.in/phpmail/PHPMailerAutoload.php on line 45
+[09-Jul-2022 04:21:14 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/taxbvsaz/taxbee.in/phpmail/PHPMailerAutoload.php on line 45
+[09-Jul-2022 04:23:17 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/taxbvsaz/taxbee.in/phpmail/PHPMailerAutoload.php on line 45
